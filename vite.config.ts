@@ -3,7 +3,7 @@ import react from "@vitejs/plugin-react-swc";
 import path from "path";
 
 export default defineConfig(({ mode }) => ({
-  base: mode === "production" ? "/arogya-sarthi-hub/" : "/",
+  base: mode === "production" ? "/arogyasarthi/" : "/",
   server: {
     host: "::",
     port: 8080,

@@ -2,7 +2,7 @@
 
 A scalable, privacy-conscious healthtech platform built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS**.  
 ✅ Fully self-hosted on GitHub Pages:  
-🔗 [Live Site](https://hirdeshkalmodiya45.github.io/arogya-sarthi-hub/)
+🔗 [Live Site](https://hirdeshkalmodiya45.github.io/arogyasarthi/)
 
 ---
 
@@ -30,7 +30,7 @@ A scalable, privacy-conscious healthtech platform built with **React**, **Vite**
 This project was previously hosted via Lovable AI:  
 `https://med-aid-system.lovable.app/`  
 It is now fully migrated and deployed via GitHub Pages:  
-`https://hirdeshkalmodiya45.github.io/arogya-sarthi-hub/`
+`https://hirdeshkalmodiya45.github.io/arogyasarthi/`
 
 ---
 
